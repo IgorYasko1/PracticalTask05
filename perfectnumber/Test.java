@@ -8,7 +8,6 @@ public class Test {
         boolean result = PerfectNumberChecker.checkPerfectNumber(number);
 
         System.out.println("Number is perfect: " + result);
-
     }
 
 }
